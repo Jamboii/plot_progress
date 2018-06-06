@@ -26,7 +26,7 @@ Plot legend will be placed in one of 9 locations corresponding to the input supp
 
 # License
 
-MIT © Larry Pearlstein
+MIT © Larry Pearlstein, Alex Benasutti
 
  
 
