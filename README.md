@@ -1,8 +1,8 @@
-plot_progress
+**plot_progress**
 
 A simple program that takes training and validation accuracy and loss from a network/model log file and plots those values against each other. The intention is to showcase the evolution of networks/models through data analysis. Comparison of accuracies will illustrate whether a network is underfitting or overfitting data, and offer next steps as to how it should be treated.
 
-Usage:
+**Usage**
 
 ```
 plot_progress.py -h
@@ -21,9 +21,11 @@ optional arguments:
 Generates a plot like:
 ![Example Figure](plot_progress_fig.png)
 
-POSITION: Plot legend will be placed in one of 9 locations corresponding to the input supplied: "C" for Center, "N" for North, and so on.
+**POSITION**
 
-License:
+Plot legend will be placed in one of 9 locations corresponding to the input supplied: "C" for Center, "N" for North, and so on.
+
+**License**
 
 MIT
 
