@@ -1,6 +1,6 @@
 # plot_progress
 
-<h4 align="center">Plot_progress takes training and validation accuracy and loss from a network/model log file and plots those values against each other. The intention is to showcase the evolution of networks/models through data analysis. Comparison of accuracies will illustrate whether a network is underfitting or overfitting data, and offer next steps as to how it should be treated.</h4>
+Plot_progress takes training and validation accuracy and loss from a network/model log file and plots those values against each other. The intention is to showcase the evolution of networks/models through data analysis. Comparison of accuracies will illustrate whether a network is underfitting or overfitting data, and offer next steps as to how it should be treated.
 
 # Usage
 
@@ -21,12 +21,12 @@ optional arguments:
 
 Plot legend will be placed in one of 9 locations corresponding to the input supplied: "C" for Center, "N" for North, and so on.
 
-Generates a plot like:
+# Plot Example
 ![Example Figure](plot_progress_fig.png)
 
 # License
 
-MIT
+MIT © Larry Pearlstein
 
  
 
